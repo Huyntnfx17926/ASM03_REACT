@@ -1,0 +1,26 @@
+.container {
+  background-color: black;
+  color: white;
+  padding: 2% 5%;
+  text-align: center;
+}
+
+.footer {
+  display: flex;
+  justify-content: space-between;
+  font-style: italic;
+}
+
+.footer_item ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.footer_item li {
+  margin: 0.5rem 0;
+}
+
+.footer_item li a {
+  color: gray;
+  text-decoration: none;
+}

@@ -1,0 +1,9 @@
+.container {
+  width: 100%;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.content {
+  width: 80%;
+  padding: 0 10%;
+}

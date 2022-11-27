@@ -1,0 +1,24 @@
+.container {
+  width: 25%;
+}
+
+.container h3,
+.container p {
+  font-size: 1.5rem;
+  padding-left: 1rem;
+}
+
+.container p:hover,
+.containerp:active {
+  color: rgba(234, 200, 103, 255);
+  cursor: pointer;
+}
+
+.categoryTitle h3 {
+  color: white;
+  background-color: black;
+}
+
+.categoryItem h3 {
+  background-color: rgba(246, 249, 246, 255);
+}
